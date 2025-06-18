@@ -44,7 +44,7 @@ Random Forest achieved the best performance and was saved for deployment.
 
 ## Author
 - *Name:* Sowmya Reddy
-- *LinkedIn:* [your-username](https://www.linkedin.com/in/sowmya-reddy131/)
+- [LinkedIn](https://www.linkedin.com/in/sowmya-reddy131/)
 - *Email:* manyamsowmyareddy@gmail.com
 
 ---
